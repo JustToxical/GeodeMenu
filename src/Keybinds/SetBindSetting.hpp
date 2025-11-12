@@ -41,7 +41,6 @@ class ButtonSettingNode : public SettingValueNode<DummySetting>
         }
 };
 
-/*
 class SetBindValue : public SettingValue
 {
     public:
